@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?taskcoach release="1.3.29" tskversion="37"?>
+
+<tasks>
+<category creationDateTime="2014-06-18 09:54:32.246000" expandedContexts="('categoryviewer',)" id="d3f87161-f6a8-11e3-8fd3-005056c00008" modificationDateTime="2014-06-18 10:00:37.572000" status="1" subject="Narenjak">
+<category creationDateTime="2014-06-18 10:00:37.572000" expandedContexts="('categoryviewer',)" id="adb8c440-f6a9-11e3-aefa-005056c00008" modificationDateTime="2014-06-18 10:01:01.669000" status="1" subject="Section">
+<category creationDateTime="2014-06-18 10:00:51.197000" expandedContexts="('categoryviewer',)" id="b5d7c6cf-f6a9-11e3-ba30-005056c00008" modificationDateTime="2014-06-18 10:00:59.085000" status="1" subject="Header" />
+<category creationDateTime="2014-06-18 10:01:01.669000" id="bc15ad4f-f6a9-11e3-b989-005056c00008" modificationDateTime="2014-06-18 10:02:54.540000" status="1" subject="Wrapper">
+<category creationDateTime="2014-06-18 10:01:16.612000" id="c4fdcc40-f6a9-11e3-ba97-005056c00008" modificationDateTime="2014-06-18 10:01:28.749000" status="1" subject="01 -Home" />
+<category creationDateTime="2014-06-18 10:01:20.852000" id="c784c540-f6a9-11e3-82d7-005056c00008" modificationDateTime="2014-06-18 10:01:35.181000" status="1" subject="02 -About" />
+<category creationDateTime="2014-06-18 10:01:38.052000" id="d1c54840-f6a9-11e3-8264-005056c00008" modificationDateTime="2014-06-18 10:01:41.279000" status="1" subject="03- team" />
+<category creationDateTime="2014-06-18 10:01:49.932000" id="d8da06c0-f6a9-11e3-bf4b-005056c00008" modificationDateTime="2014-06-18 10:01:53.920000" status="1" subject="04- folio" />
+<category creationDateTime="2014-06-18 10:01:59.500000" id="de8dfcc0-f6a9-11e3-9e48-005056c00008" modificationDateTime="2014-06-18 10:02:03.159000" status="1" subject="05- services" />
+<category creationDateTime="2014-06-18 10:02:09.188000" id="e4544240-f6a9-11e3-8492-005056c00008" modificationDateTime="2014-06-18 10:02:12.264000" status="1" subject="06- blog" />
+<category creationDateTime="2014-06-18 10:02:23.678000" id="ecf741de-f6a9-11e3-ae7b-005056c00008" modificationDateTime="2014-06-18 10:02:27.095000" status="1" subject="07 - pricing" />
+<category creationDateTime="2014-06-18 10:02:36.996000" id="f4e76c40-f6a9-11e3-aa02-005056c00008" modificationDateTime="2014-06-18 10:02:41.615000" status="1" subject="08 - contacts" />
+<category creationDateTime="2014-06-18 10:02:54.540000" id="ff5c6cc0-f6a9-11e3-802d-005056c00008" modificationDateTime="2014-06-18 10:02:58.960000" status="1" subject="09 - footer" />
+</category>
+</category>
+</category>
+<syncmlconfig>
+<TaskCoach-00000146ad6ef2cf651d4d3400c000a800010010>
+<spds>
+<sources>
+<TaskCoach-00000146ad6ef2cf651d4d3400c000a800010010.Tasks />
+<TaskCoach-00000146ad6ef2cf651d4d3400c000a800010010.Notes />
+</sources>
+<syncml>
+<Auth />
+<Conn />
+</syncml>
+</spds>
+</TaskCoach-00000146ad6ef2cf651d4d3400c000a800010010>
+</syncmlconfig>
+<guid>
+00000146ad6ef2cf651d4d3400c000a800010010
+</guid>
+</tasks>
