@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?taskcoach release="1.3.29" tskversion="37"?>
+
+<tasks>
+<task actualstartdate="2014-06-18 10:13:57.980000" creationDateTime="2014-06-18 10:13:57.980000" id="8acd55c0-f6ab-11e3-98bc-005056c00008" modificationDateTime="2014-06-18 10:14:01.330000" status="1" subject="01- logo" />
+<category creationDateTime="2014-06-18 09:54:32.246000" expandedContexts="('categoryviewer', 'categoryviewerintaskeditor')" filtered="True" id="d3f87161-f6a8-11e3-8fd3-005056c00008" modificationDateTime="2014-06-18 10:00:37.572000" status="1" subject="Narenjak">
+<category creationDateTime="2014-06-18 10:00:37.572000" expandedContexts="('categoryviewer', 'categoryviewerintaskeditor')" id="adb8c440-f6a9-11e3-aefa-005056c00008" modificationDateTime="2014-06-18 10:01:01.669000" status="1" subject="Section">
+<category creationDateTime="2014-06-18 10:00:51.197000" expandedContexts="('categoryviewer', 'categoryviewerintaskeditor')" id="b5d7c6cf-f6a9-11e3-ba30-005056c00008" modificationDateTime="2014-06-18 10:13:36.796000" status="1" subject="Header">
+<category creationDateTime="2014-06-18 10:13:30.540000" expandedContexts="('categoryviewer', 'categoryviewerintaskeditor')" id="7a7252c0-f6ab-11e3-b6e7-005056c00008" modificationDateTime="2014-06-18 10:13:43.924000" status="1" subject="01- Logo">
+<category categorizables="8acd55c0-f6ab-11e3-98bc-005056c00008" creationDateTime="2014-06-18 10:13:43.924000" expandedContexts="('categoryviewerintaskeditor',)" id="826c8f40-f6ab-11e3-b8fd-005056c00008" modificationDateTime="2014-06-18 10:13:46.321000" status="1" subject="01- logo" />
+</category>
+<category creationDateTime="2014-06-18 10:13:36.796000" expandedContexts="('categoryviewerintaskeditor',)" id="7e2ce9c0-f6ab-11e3-ab54-005056c00008" modificationDateTime="2014-06-18 10:13:40.601000" status="1" subject="02- navigation" />
+</category>
+<category creationDateTime="2014-06-18 10:01:01.669000" expandedContexts="('categoryviewerintaskeditor',)" id="bc15ad4f-f6a9-11e3-b989-005056c00008" modificationDateTime="2014-06-18 10:02:54.540000" status="1" subject="Wrapper">
+<category creationDateTime="2014-06-18 10:01:16.612000" expandedContexts="('categoryviewerintaskeditor',)" id="c4fdcc40-f6a9-11e3-ba97-005056c00008" modificationDateTime="2014-06-18 10:01:28.749000" status="1" subject="01 -Home" />
+<category creationDateTime="2014-06-18 10:01:20.852000" expandedContexts="('categoryviewerintaskeditor',)" id="c784c540-f6a9-11e3-82d7-005056c00008" modificationDateTime="2014-06-18 10:01:35.181000" status="1" subject="02 -About" />
+<category creationDateTime="2014-06-18 10:01:38.052000" expandedContexts="('categoryviewerintaskeditor',)" id="d1c54840-f6a9-11e3-8264-005056c00008" modificationDateTime="2014-06-18 10:01:41.279000" status="1" subject="03- team" />
+<category creationDateTime="2014-06-18 10:01:49.932000" expandedContexts="('categoryviewerintaskeditor',)" id="d8da06c0-f6a9-11e3-bf4b-005056c00008" modificationDateTime="2014-06-18 10:01:53.920000" status="1" subject="04- folio" />
+<category creationDateTime="2014-06-18 10:01:59.500000" expandedContexts="('categoryviewerintaskeditor',)" id="de8dfcc0-f6a9-11e3-9e48-005056c00008" modificationDateTime="2014-06-18 10:02:03.159000" status="1" subject="05- services" />
+<category creationDateTime="2014-06-18 10:02:09.188000" expandedContexts="('categoryviewerintaskeditor',)" id="e4544240-f6a9-11e3-8492-005056c00008" modificationDateTime="2014-06-18 10:02:12.264000" status="1" subject="06- blog" />
+<category creationDateTime="2014-06-18 10:02:23.678000" expandedContexts="('categoryviewerintaskeditor',)" id="ecf741de-f6a9-11e3-ae7b-005056c00008" modificationDateTime="2014-06-18 10:02:27.095000" status="1" subject="07 - pricing" />
+<category creationDateTime="2014-06-18 10:02:36.996000" expandedContexts="('categoryviewerintaskeditor',)" id="f4e76c40-f6a9-11e3-aa02-005056c00008" modificationDateTime="2014-06-18 10:02:41.615000" status="1" subject="08 - contacts" />
+<category creationDateTime="2014-06-18 10:02:54.540000" expandedContexts="('categoryviewerintaskeditor',)" id="ff5c6cc0-f6a9-11e3-802d-005056c00008" modificationDateTime="2014-06-18 10:02:58.960000" status="1" subject="09 - footer" />
+</category>
+</category>
+</category>
+<syncmlconfig>
+<TaskCoach-00000146ad6ef2cf651d4d3400c000a800010010>
+<spds>
+<sources>
+<TaskCoach-00000146ad6ef2cf651d4d3400c000a800010010.Tasks />
+<TaskCoach-00000146ad6ef2cf651d4d3400c000a800010010.Notes />
+</sources>
+<syncml>
+<Auth />
+<Conn />
+</syncml>
+</spds>
+</TaskCoach-00000146ad6ef2cf651d4d3400c000a800010010>
+</syncmlconfig>
+<guid>
+00000146ad6ef2cf651d4d3400c000a800010010
+</guid>
+</tasks>
