@@ -1,6 +1,19 @@
-$(document).ready(function() 
-  
-{ 
+$(document).ready(function(){
+
+  // ==========Loader============
+    $(window).load(function() {
+      $('#loading-area').fadeOut().remove();
+    });
+  // ==========End Loader============
+
+
+});
+
+
+
+
+
+
 
 /*global jQuery, window, Modernizr, navigator, objLayerSlider, objFlickr, objPostSlider, google, objGoogleMap*/
 
